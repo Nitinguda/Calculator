@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="label1">Label 1 :</string>
+    <string name="label2">Label 2 :</string>
+    <string name="addlabel">+</string>
+    <string name="clearButton">Clear</string>
+    <string name="subButton">-</string>
+    <string name="mulButton">*</string>
+    <string name="divButton">/</string>
+    <string name="res">Your Result!</string>
+</resources>
